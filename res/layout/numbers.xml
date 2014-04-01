@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#313131"
+    android:onClick="onNumberClick"
+    android:orientation="vertical"
+    tools:listitem="@android:layout/simple_list_item_1" >
+
+    <Button
+        android:id="@+id/button14"
+        style="@style/Textcolor_buttons"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_weight="0.05"
+        android:background="@drawable/selector_bt_numbers"
+        android:height="30dp"
+        android:onClick="onNumberClick"
+        android:text="@string/main" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/button1"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/nb_1" />
+
+        <Button
+            android:id="@+id/button2"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/nb_2" />
+
+        <Button
+            android:id="@+id/button3"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/nb_3" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/button4"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/nb_4" />
+
+        <Button
+            android:id="@+id/button5"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/nb_5" />
+
+        <Button
+            android:id="@+id/button6"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/nb_6" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/button7"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/nb_7" />
+
+        <Button
+            android:id="@+id/button8"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/nb_8" />
+
+        <Button
+            android:id="@+id/button9"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/nb_9" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/button10"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/mute" />
+
+        <Button
+            android:id="@+id/button11"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/nb_0" />
+
+        <Button
+            android:id="@+id/button12"
+            style="@style/Textcolor_buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:onClick="onNumberClick"
+            android:text="@string/Last" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:text="VOL +"
+            android:textColor="#ffffff" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/voice_bt_normal" />
+
+        <Button
+            android:id="@+id/button17"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:text="PR +"
+            android:textColor="#ffffff" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:text="VOL -"
+            android:textColor="#ffffff" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/voice_bt_normal" />
+
+        <Button
+            android:id="@+id/button16"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_bt_numbers"
+            android:text="PR -"
+            android:textColor="#ffffff" />
+
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.05" />
+
+</LinearLayout>

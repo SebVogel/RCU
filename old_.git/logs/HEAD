@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 eacb6c1b80ad92ede077e57f776d80ae640ccf00 SmartTV <SmartTV@SmartTV-PC.fritz.box> 1391080301 +0100	commit: First Upload
+eacb6c1b80ad92ede077e57f776d80ae640ccf00 03b2e4d8070980c13a9ab9410d2182220db940ba SmartTV <SmartTV@SmartTV-PC.fritz.box> 1391080990 +0100	commit: Test 
+03b2e4d8070980c13a9ab9410d2182220db940ba d08f34f7b474f79c54b52b3243d09309b527b223 SmartTV <SmartTV@SmartTV-PC.fritz.box> 1391081185 +0100	commit: zweiter Test
+d08f34f7b474f79c54b52b3243d09309b527b223 816c43f9282d9fa2b07d0ac38c8ebb62410b3778 SmartTV <SmartTV@SmartTV-PC.fritz.box> 1391092317 +0100	commit: Ip Check beim ersten starten des Programms hinzugefügt. Sollten die IP Adresse 0.0.0.0 sein wird beim öffnen ein AlterFenster angezeigt
+816c43f9282d9fa2b07d0ac38c8ebb62410b3778 8e8ea66e5bb68dab98bd5fdb8f456bd037739ca7 SmartTV <SmartTV@SmartTV-PC.fritz.box> 1391101073 +0100	commit: final upload 30.1
+8e8ea66e5bb68dab98bd5fdb8f456bd037739ca7 cf1554c5f48623cda5a20e58aff7489944a4917f SmartTV <SmartTV@SmartTV-PC.fritz.box> 1391184428 +0100	commit: ohne Actionbar mit neuem Logo...
+cf1554c5f48623cda5a20e58aff7489944a4917f 7eb97c59ca0c33edc6ce87884277d45cc6e2fb06 SmartTV <SmartTV@SmartTV-PC.fritz.box> 1391703497 +0100	commit: Zahlen eingefügt +  Antwort in Ausgabe Fenster
+7eb97c59ca0c33edc6ce87884277d45cc6e2fb06 c18bbafeef6c04e3b61d8e0f3c457c1576b9bcf9 SmartTV <SmartTV@SmartTV-PC.fritz.box> 1392039077 +0100	commit: Red Button und Portal hinzugefügt. Fehler bei Mainbutton / Numbers behoben
+c18bbafeef6c04e3b61d8e0f3c457c1576b9bcf9 13e09509de23259598e140ba2d0be9f2f7a7f354 SmartTV <SmartTV@SmartTV-PC.fritz.box> 1392743355 +0100	commit: Protokoll auf 76 Bytes erweitert..
+13e09509de23259598e140ba2d0be9f2f7a7f354 32ab2e0d6b97f4f819f5bc9ca2979c1a6ddbdfa5 SmartTV <SmartTV@SmartTV-PC.fritz.box> 1392914766 +0100	commit: Design angepasst
+32ab2e0d6b97f4f819f5bc9ca2979c1a6ddbdfa5 7d2ee04189ea8d2fea4894a04f8ad2f696e66464 SmartTV <SmartTV@SmartTV-PC.fritz.box> 1392915407 +0100	commit: drawable update
+7d2ee04189ea8d2fea4894a04f8ad2f696e66464 1d2bd9c7d3c2b3d00ce30406ea2fbf86fb458486 SmartTV <SmartTV@SmartTV-PC.fritz.box> 1393346028 +0100	commit: Layout angepasst
+1d2bd9c7d3c2b3d00ce30406ea2fbf86fb458486 7805323625fe590cf613c20df2f8c8da57b813be SmartTV <SmartTV@SmartTV-PC.fritz.box> 1393607129 +0100	commit: layout Änderung
+7805323625fe590cf613c20df2f8c8da57b813be e8aa1f8db861fbcca8d3f5e70e6ec0c5eba8c8ee SmartTV <SmartTV@SmartTV-PC.fritz.box> 1393866026 +0100	commit: layout erneut angepasst
+e8aa1f8db861fbcca8d3f5e70e6ec0c5eba8c8ee ffc35b931bdb15ae33a4131e5de7674d2d2e5f3d SmartTV <SmartTV@SmartTV-PC.fritz.box> 1395684235 +0100	commit: Sendcommand geändert
+ffc35b931bdb15ae33a4131e5de7674d2d2e5f3d 596f8b667a7a521dc54bfc3744d023e17d259f0a SmartTV <SmartTV@SmartTV-PC.fritz.box> 1395765937 +0100	commit: Send Function verbessert
+596f8b667a7a521dc54bfc3744d023e17d259f0a 5e7ebecf07aee3fcdde33a4e67418ef73ec8a01b SmartTV <SmartTV@SmartTV-PC.fritz.box> 1395851367 +0100	commit: Design change
+5e7ebecf07aee3fcdde33a4e67418ef73ec8a01b d89ac92809f3aae8cbad296fcf7270611465350c SmartTV <SmartTV@SmartTV-PC.fritz.box> 1396359787 +0200	commit: Final Version
