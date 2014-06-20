@@ -1,4 +1,4 @@
-package com.example.vantagevtrcu;
+package com.vantagevtrcu;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
@@ -7,7 +7,7 @@ import java.net.InetAddress;
 import java.net.SocketException;
 import java.net.UnknownHostException;
 
-import com.example.vantagevtrcu.R;
+import com.vantagevtrcu.R;
 
 
 

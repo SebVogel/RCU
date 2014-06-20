@@ -1,7 +1,7 @@
-package com.example.vantagevtrcu;
+package com.vantagevtrcu;
 
 
-import com.example.vantagevtrcu.R;
+import com.vantagevtrcu.R;
 
 import android.app.Activity;
 import android.content.Intent;

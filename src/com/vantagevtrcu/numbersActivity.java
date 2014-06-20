@@ -1,4 +1,4 @@
-package com.example.vantagevtrcu;
+package com.vantagevtrcu;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
@@ -16,8 +16,8 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.example.vantagevtrcu.MainActivity;
-import com.example.vantagevtrcu.R;
+import com.vantagevtrcu.R;
+import com.vantagevtrcu.MainActivity;
 
 public class numbersActivity extends Activity {
 	

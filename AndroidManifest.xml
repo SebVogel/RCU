@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.vantagevtrcu"
+    package="com.vantagevtrcu"
     android:installLocation="auto"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -15,9 +15,9 @@
         android:allowBackup="true"
         android:icon="@drawable/vt_icon_final"
         android:label="@string/app_name"
-        android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen" >
+        android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen" android:permission="android.permission.INTERNET" android:debuggable="false">
         <activity
-            android:name="com.example.vantagevtrcu.MainActivity"
+            android:name="com.vantagevtrcu.MainActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
             <intent-filter>
@@ -27,11 +27,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.vantagevtrcu.settingsActivity"
+            android:name="com.vantagevtrcu.settingsActivity"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.example.vantagevtrcu.numbersActivity"
+            android:name="com.vantagevtrcu.numbersActivity"
             android:screenOrientation="portrait" >
         </activity>
     </application>
